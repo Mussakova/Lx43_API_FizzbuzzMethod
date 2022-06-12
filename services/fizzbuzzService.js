@@ -21,6 +21,7 @@ class fizzbuzzService{
             scoreNtrick.score = number;
             return scoreNtrick;
         }
+        
     }
 }
 
